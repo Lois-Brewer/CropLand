@@ -1,5 +1,13 @@
 ## Cropland-CD
 
+Paper: https://ieeexplore.ieee.org/document/9780164
+
+GitHub: https://github.com/liumency/CropLand-CD
+
+Please the original readme file from the original GitHub Repository for more information
+
+# Original ReadMe file
+
 The pytorch implementation for **MSCANet** in paper "[A CNN-transformer Network with Multi-scale Context Aggregation for Fine-grained Cropland Change Detection](https://ieeexplore.ieee.org/document/9780164)" on [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://www.grss-ieee.org/publications/journal-of-selected-topics-in-applied-earth-observations-and-remote-sensing/).  
 
 ## Requirements
